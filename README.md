@@ -1,15 +1,15 @@
-#README.md
+# README.md
 
-##Configuration
+## Configuration
 * Système d'exploitation : mac Os Big Sur 11.0.1
 * Clavier QWERTY ⚠️ Les touches (qui sont affichées dans le menu au lancement) peuvent être erronées en fonction de votre configuration clavier ⚠️
 * Python : 3.9.0
 * Clang : 12.0.0
 * Pygame : 2.0.0
-##How to
+## How to
 * Pour lancer le programme, exécutez Class/main.py
 
-##Fonctionnement général
+## Fonctionnement général
 * main.py : initialise le programme
 * settings.py : réunit quelques paramètres généraux
 * game.py : gère la logique du programme
